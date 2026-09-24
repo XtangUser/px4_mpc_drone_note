@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ROS and build artifacts
+build/
+install/
+log/
+
+# Local experiment data
+data/raw/
+data/private/
+
